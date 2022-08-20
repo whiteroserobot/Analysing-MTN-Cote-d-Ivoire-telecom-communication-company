@@ -1,4 +1,4 @@
-# Ananlysing MTN Cote d'Ivoire telecom communication company 
+# Analysing MTN Cote d'Ivoire telecom communication company 
 
 ## project description
 
